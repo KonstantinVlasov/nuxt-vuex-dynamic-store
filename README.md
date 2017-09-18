@@ -1,0 +1,1 @@
+# nuxt-vuex-dynamic-store
